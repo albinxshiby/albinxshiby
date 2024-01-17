@@ -3,6 +3,7 @@
 
  ![Visitor Count](https://profile-counter.glitch.me/{albinxshiby}/count.svg)
 <p align="center">
+  ![Visitor Count](https://profile-counter.glitch.me/{albinxshiby}/count.svg)
   <img width="370" src="assets/pe.png">
 </p>
 
