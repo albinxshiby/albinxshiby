@@ -2,6 +2,6 @@
 
  <p align="left">
 
-  <img width="" src="assets/aang.gif">
+  <img width="200" src="assets/aang.gif">
   
 
