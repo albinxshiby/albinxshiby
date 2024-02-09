@@ -13,7 +13,12 @@
 
 <details>
   <summary><i>Statitics</i></summary>
-  
+  ![Divider](https://vaxerski.xyz/github/stats1.gif)
+![](https://raw.githubusercontent.com/vaxerski/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/vaxerski/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/vaxerski/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/vaxerski/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![Divider](https://vaxerski.xyz/github/divider.png)
 </details>
 
 <p align="left">
