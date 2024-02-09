@@ -7,7 +7,7 @@
   <img width="370" src="assets/pe.png">
   
 </p>
-![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JaKooLit&theme=tokyonight)
+![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=albinxshiby&theme=tokyonight)
 
 
 <p align="center">
