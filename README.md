@@ -25,8 +25,8 @@
   <a href= "https://in.linkedin.com/albinxshiby"><img width="32" src="assets/linkedin.png"/></a>
 </p>
 
-<p align="left"><samp> *ThankU, 
-Check Out My RepoS ⬇️*  
+<p align="left"><samp>ThankU, 
+Check Out My RepoS ⬇️  
   </samp>
 </p>
 
