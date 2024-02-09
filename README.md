@@ -2,7 +2,7 @@
 <h4><samp> Hi there 👋🏼  welcome to my Github! I introduce myself as a Uncertified Arch_lnx User 👾, #FOSS Hacktivist <br>&& Cyber Enthusiast. Feel free to ask anything under the sky._🛸☁️ ThankU</samp></h4>
  <p align="left">
 
-  <img width="370" src="assets/pe.png">
+  <img width="370" src="assets/aang.gif">
   
 </p>
 
