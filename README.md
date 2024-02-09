@@ -5,6 +5,7 @@
 <p align="center">
 
   <img width="370" src="assets/pe.png">
+  ![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JaKooLit&theme=tokyonight)
 </p>
 
 
