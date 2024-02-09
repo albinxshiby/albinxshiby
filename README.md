@@ -7,7 +7,8 @@
 </p>
 
 <details>
-  <summary><i>le footer</i></summary>
+  <summary><i>Just about me</i></summary>
+  <h4><samp> Hi there 👋🏼  welcome to my Github! I introduce myself as a Uncertified Arch_lnx User 👾, #FOSS Hacktivist <br>&& Cyber Enthusiast. Feel free to ask anything under the sky._🛸☁️ ThankU</samp></h4>
   
    *Discord* > vaxry <br/>
    *Matrix* > @vaxry:matrix.vaxry.net<br/>
