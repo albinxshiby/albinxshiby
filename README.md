@@ -7,7 +7,17 @@
   <img width="370" src="assets/pe.png">
   
 </p>
-![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=albinxshiby&theme=tokyonight)
+<details>
+  <summary><i>le footer</i></summary>
+  
+   *Discord* > vaxry <br/>
+   *Matrix* > @vaxry:matrix.vaxry.net<br/>
+   *Github* > well <br/>
+   *Mail* > vaxry [at] vaxry.net <br/>
+   *Site* > https://vaxry.net <br/><br/>
+  
+   *All graphics on this profile are made by me.*
+</details>
 
 
 <p align="center">
