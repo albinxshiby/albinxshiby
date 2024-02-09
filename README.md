@@ -19,7 +19,7 @@
 </details>
 
 
-<p align="center">
+<p align="left">
 <a href= "https://instagram.com/albinxshiby" target="_blank"><img width="26" src="assets/instagram.png"/></a>
 <a href= "https://twitter.com/albinxshiby"><img width="26" src="assets/twitter.png"/></a>
 <a href= "https://github.com/albinxshiby"><img width="28" src="assets/github.png"/></a>
@@ -28,7 +28,7 @@
   <a href= "https://in.linkedin.com/albinxshiby"><img width="32" src="assets/linkedin.png"/></a>
 </p>
 
-<p align="center"><samp>
+<p align="left"><samp>
 Check Out My RepoS ⬇️  
   </samp>
 </p>
