@@ -1,7 +1,7 @@
 <p align="center">
   <br>
   
-  <img width="180" src="assets/pe.png">
+  <img width="180" src="assets/main.png">
  
   <br>
   <samp>
