@@ -14,5 +14,5 @@
   
   <br>
   <br>
-  <img width="auto" src="assets/flow.svg">
+  <img width="max" src="assets/flow.svg">
 </p>
